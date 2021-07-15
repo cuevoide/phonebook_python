@@ -1,2 +1,2 @@
 # phonebook_python
-Simpe phonebook made on python with DB on MYSQL.
+Simpe phonebook made in Tkinter with a DB in MYSQL.
